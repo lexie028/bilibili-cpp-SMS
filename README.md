@@ -1,2 +1,2 @@
-# stu-work
-主要都是平时的一些练习作业
+# SMS-StudentManagementSystem
+这个是根据b站教程自己写的学生信息管理系统，自己补全了的
