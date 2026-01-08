@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login_icon.jpg</file>
+        <file>user.jpg</file>
+        <file>build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/debug/dlg.css</file>
+        <file>build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/debug/main.css</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,179 @@
+
+QPushButton#btn_s
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_u
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_add
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_del
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_m
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_m:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_clear
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_clear:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_s:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_u:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_add:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_del:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QWidget#centralwidget
+{
+    background-color: #262f34;
+}
+QTreeWidget#treeWidget
+{
+    background-color: #e4cdc1;
+    font-size: 12px;
+}
+QStackedWidget#stackedWidget
+{
+    background-color: #ddb8a5;
+}
+QLineEdit#le_s
+{
+    border: 1px solid #fff;
+    border-radius:6px;
+}
+QTableWidget#tableWidget
+{
+    border: none;
+}
+QHeaderView::section
+{
+    text-align: center;
+    background-color: antiquewhite;
+    color: #3a474e;
+    font-size: 12px;
+    font-weight: bold;
+    height: 28px;
+    border: 1px solid #d8c7be;
+    border-left: none;
+}
+QTableWidget::item
+{
+    font-size: 12px;
+    color: #3a474e;
+    border: none;
+}
+QCheckBox
+{
+    color: #262f34;
+}
+QLabel#lb_cnt
+{
+    color: #262f34;
+}
+/* 增加学生页面 */
+QPushButton#btn_b
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QPushButton#btn_q
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QDialog#Dlg_AddStu
+{
+    background-color: #262f34;
+}
+QPushButton#btn_exit
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QPushButton#btn_addu
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_addu:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_delu
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_delu:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}
+QPushButton#btn_key
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 58, 63);
+}
+QPushButton#btn_key:pressed
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: grey;
+}

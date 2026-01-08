@@ -1,0 +1,63 @@
+
+/* 增加学生页面 */
+QPushButton#btn_b
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QPushButton#btn_q
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QDialog#Dlg_AddStu
+{
+    background-color: #262f34;
+}
+QPushButton#btn_exit
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QPushButton#btn_login
+{
+    border-radius:6px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 135, 50);
+}
+QLabel#key
+{
+    color:#fff;
+    font-size: 14px;
+    text-align: center; 
+}
+QLabel#user
+{
+    color:#fff;
+    font-size: 14px;
+    text-align: center; 
+}
+QLabel#title
+{
+    color:#fff;
+    font-size: 22px;
+}
+QLineEdit#key1
+{
+    border: 2px solid #fff;
+    border-radius:6px;
+    min-height: 19px;
+}
+QLineEdit#user1
+{
+    border: 2px solid #fff;
+    border-radius:6px;
+    min-height: 19px;
+}
+QWidget#Page_Login
+{
+    background-color: #262f34;
+}
